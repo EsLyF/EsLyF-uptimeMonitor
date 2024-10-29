@@ -4,15 +4,13 @@ repo: EsLyF-uptimeMonitor # The name of this repository
 
 sites:
   - name: 个人页
-    url: http://eslyf.vip
-  - name: 个人页
-    url: http://eslyf.cn
-  - name: 音乐台
-    url: http://music.eslyf.cn
+    url: https://eslyf.cn
+  - name: Nginx-PM
+    url: https://npm.eslyf.cn
+  - name: Docker监控
+    url: https://dpanel.eslyf.cn
   - name: 网盘
-    url: http://disk.eslyf.cn
-  - name: TeamSpeak服务端
-    url: http://ts.eslyf.cn
+    url: https://disk.eslyf.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
