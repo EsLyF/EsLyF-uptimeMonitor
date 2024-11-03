@@ -10,10 +10,10 @@
     "uptimeWeek": "93.08%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "49.26%",
-    "time": 1449,
+    "time": 1450,
     "timeDay": 1206,
-    "timeWeek": 1231,
-    "timeMonth": 1926,
+    "timeWeek": 1230,
+    "timeMonth": 1925,
     "timeYear": 1491,
     "dailyMinutesDown": {
       "2024-11-02": 586,
@@ -206,8 +206,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1269,
       "2023-11-06": 94,
-      "2023-11-05": 240,
-      "2023-11-04": 515
+      "2023-11-05": 240
     }
   },
   {
@@ -216,11 +215,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/npm.eslyf.cn.ico",
     "slug": "nginx-pm",
     "status": "up",
-    "uptime": "94.94%",
+    "uptime": "94.98%",
     "uptimeDay": "79.64%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "94.98%",
     "time": 1128,
     "timeDay": 1108,
     "timeWeek": 1128,
@@ -237,11 +236,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpanel.eslyf.cn.ico",
     "slug": "docker",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.70%",
     "uptimeDay": "79.72%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.65%",
-    "uptimeYear": "94.65%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "94.70%",
     "time": 1178,
     "timeDay": 1135,
     "timeWeek": 1178,
@@ -263,10 +262,10 @@
     "uptimeWeek": "93.08%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "49.26%",
-    "time": 1449,
+    "time": 1450,
     "timeDay": 1206,
-    "timeWeek": 1231,
-    "timeMonth": 1926,
+    "timeWeek": 1230,
+    "timeMonth": 1925,
     "timeYear": 1491,
     "dailyMinutesDown": {
       "2024-11-02": 586,
@@ -459,8 +458,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1269,
       "2023-11-06": 94,
-      "2023-11-05": 240,
-      "2023-11-04": 515
+      "2023-11-05": 240
     }
   }
 ]
