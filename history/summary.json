@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "27.56%",
-    "time": 1480,
-    "timeDay": 2970,
+    "uptimeYear": "27.57%",
+    "time": 1481,
+    "timeDay": 2968,
     "timeWeek": 2978,
-    "timeMonth": 2796,
+    "timeMonth": 2797,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -171,8 +171,7 @@
       "2024-09-03": 220,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -330,11 +329,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpanel.eslyf.cn.ico",
     "slug": "docker",
     "status": "up",
-    "uptime": "60.53%",
+    "uptime": "60.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "60.53%",
+    "uptimeYear": "60.54%",
     "time": 1454,
     "timeDay": 1103,
     "timeWeek": 1139,
@@ -484,11 +483,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "27.56%",
-    "time": 1480,
-    "timeDay": 2969,
+    "uptimeYear": "27.57%",
+    "time": 1481,
+    "timeDay": 2968,
     "timeWeek": 2978,
-    "timeMonth": 2796,
+    "timeMonth": 2797,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2025-08-19": 126,
@@ -646,8 +645,7 @@
       "2024-09-03": 220,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   }
 ]
