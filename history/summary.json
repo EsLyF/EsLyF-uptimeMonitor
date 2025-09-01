@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eslyf.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "36.92%",
+    "uptime": "36.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "28.11%",
+    "uptimeYear": "28.12%",
     "time": 1522,
     "timeDay": 2931,
     "timeWeek": 2968,
@@ -169,8 +169,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 913,
       "2024-09-03": 220,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -478,11 +477,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/disk.eslyf.cn.ico",
     "slug": "",
     "status": "down",
-    "uptime": "36.92%",
+    "uptime": "36.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "28.11%",
+    "uptimeYear": "28.12%",
     "time": 1522,
     "timeDay": 2931,
     "timeWeek": 2968,
@@ -642,8 +641,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 913,
       "2024-09-03": 220,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
